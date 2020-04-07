@@ -1,0 +1,66 @@
+$black: #010000;
+$white: #ffffff;
+$lightGrey: #e6e6e6;
+$darkGrey: #333;
+$red: #ff1755;
+$dg1: #23533B;
+$gd: #767615;
+$ow: #F4F8F5;
+@font-face{
+  src: url(/fonts/baskvl.ttf);
+  font-family: bask;
+}
+
+@mixin translateY($e) {
+  -webkit-transform: translateY($e);
+  -moz-transform: translateY($e);
+  transform: translateY($e);
+}
+
+
+@mixin rotate($e) {
+  transform: rotate($e);
+  -webkit-transform: rotate($e);
+  -moz-transform: rotate($e);
+  -ms-transform: rotate($e);
+  -o-transform: rotate($e);
+}
+
+@mixin translateX($e) {
+  -webkit-transform: translateX($e);
+  -moz-transform: translateX($e);
+  transform: translateX($e);
+}
+
+@mixin transition($e){
+  -webkit-transition:$e;
+  -moz-transition:$e;
+  transition:$e;
+}
+
+body {
+  font-family: bask;
+  font-size: 18px;
+  color: $black;
+  font-weight: 400;
+  
+
+  h1{
+    font-family: bask;
+    font-size: 10px;
+    color: $black;
+    font-weight: 400;
+  }
+
+  a{
+    text-decoration: none;
+    @include transition(.3s ease-in-out);
+    cursor: pointer;
+
+    &:hover {
+      text-decoration: none;
+      color: $gd;
+      @include transition(.3s ease-in-out);
+    }
+  }
+}
