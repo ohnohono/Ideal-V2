@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ideal-V2/static/css/main.bcaac245.chunk.css",
-    "main.js": "/Ideal-V2/static/js/main.c3b5ed06.chunk.js",
-    "main.js.map": "/Ideal-V2/static/js/main.c3b5ed06.chunk.js.map",
+    "main.js": "/Ideal-V2/static/js/main.0aee0416.chunk.js",
+    "main.js.map": "/Ideal-V2/static/js/main.0aee0416.chunk.js.map",
     "runtime-main.js": "/Ideal-V2/static/js/runtime-main.0f405ede.js",
     "runtime-main.js.map": "/Ideal-V2/static/js/runtime-main.0f405ede.js.map",
     "static/css/2.17e5ed98.chunk.css": "/Ideal-V2/static/css/2.17e5ed98.chunk.css",
     "static/js/2.53a16b42.chunk.js": "/Ideal-V2/static/js/2.53a16b42.chunk.js",
     "static/js/2.53a16b42.chunk.js.map": "/Ideal-V2/static/js/2.53a16b42.chunk.js.map",
     "index.html": "/Ideal-V2/index.html",
-    "precache-manifest.37b5a0e4b37ee6032f02364d0489cd83.js": "/Ideal-V2/precache-manifest.37b5a0e4b37ee6032f02364d0489cd83.js",
+    "precache-manifest.0ba733c534cf7c93e0bf02d0a2e80eb6.js": "/Ideal-V2/precache-manifest.0ba733c534cf7c93e0bf02d0a2e80eb6.js",
     "service-worker.js": "/Ideal-V2/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/Ideal-V2/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.bcaac245.chunk.css.map": "/Ideal-V2/static/css/main.bcaac245.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.53a16b42.chunk.js",
     "static/css/main.bcaac245.chunk.css",
-    "static/js/main.c3b5ed06.chunk.js"
+    "static/js/main.0aee0416.chunk.js"
   ]
 }
