@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56adde84d6e01e534ec47624244b6f0c",
+    "revision": "5be145faa89ac7bb51326b76a20f6323",
     "url": "/Ideal-V2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ideal-V2/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "4161ada704afbf4a3bf6",
+    "revision": "595a7fb84005cc378bd8",
     "url": "/Ideal-V2/static/css/main.bcaac245.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ideal-V2/static/js/2.53a16b42.chunk.js.LICENSE"
   },
   {
-    "revision": "4161ada704afbf4a3bf6",
-    "url": "/Ideal-V2/static/js/main.e4b1b742.chunk.js"
+    "revision": "595a7fb84005cc378bd8",
+    "url": "/Ideal-V2/static/js/main.c3b5ed06.chunk.js"
   },
   {
     "revision": "fe225a15f9669f11fb95",
